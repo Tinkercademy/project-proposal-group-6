@@ -29,7 +29,7 @@ That people will want to relieve their stress
 
 
 ## Unique Selling Point
-Our version will succeed because it is counsellors base will be controlled so only professionals will be giving advice opposed to complete strangers
+Our version will succeed because its counsellors base will be controlled so only highly rated counsellors will be giving advice opposed to complete strangers
 
 ## Competitors
 What competitors are there? List 5. Surely you can google 5.
@@ -40,4 +40,4 @@ Why are we better or different?
 4) BetterHelp Counseling 
 5) Friend Shoulder
 
-Mine is better as close to proffesional help will be provided for the users opposed to the community built counsellers that 
+Mine is better as a close to proffesional help will be provided for the users opposed to the community built counsellers that 

@@ -1,12 +1,12 @@
-# ComRAnt
+# RAnter
 
-## Hearing you out
+## Hearing your problems
 
 Group members: 
 Kee Ga Jin 
 
 ## Audience
-Teenagers
+Students
 
 ## Problems
 What problems are people facing?
@@ -22,14 +22,12 @@ Many gaming,music and chat applications have been made for Teenagers and adults 
 What’s your solution, in one sentence?
 Can you find an analogy to describe it?
 
-To create an app that provides quick access for someone within the comunity to vent their frustrations so as to detress while gaining recognition.
-It is like a stress ball that you carry around in your phone that responds to your stress.
+To create an app that provides quick access for someone within the comunity to vent their frustrations so as to detress while gaining recognition for the problems in school
+It is like a person that you carry around that responds to your problems.
 
 ## Assumptions
 What assumptions are we making that the project depends on? 
-That people will want to relieve their stress and that their stress stems from the fact they are unable to vent their frustrations.
-Teenagers would use their mobile phones to destress
-
+That people will want to vent about their problems with school and that their stress stems from the fact they are unable to vent their frustrations
 
 
 ## Unique Selling Point
@@ -43,5 +41,6 @@ Why are we better or different?
 3) Reachout:My support Network
 4) BetterHelp Counseling 
 5) Friend Shoulder
+6) Pigeon Hole
 
 Mine is better as the user base is limited to prevent the user base turning toxic over time or there not being proffesional help. 
